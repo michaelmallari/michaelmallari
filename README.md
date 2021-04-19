@@ -14,6 +14,4 @@
 
 ### Product Manager | Ex-Designer | Ex-Software Engineer
 
----
-
 My career has evolved from "building the solutions right", to "building the right solutions", to identifying the most important problems to building the right solutions for.
