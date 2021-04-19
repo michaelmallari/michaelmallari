@@ -12,28 +12,8 @@
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=michaelmallari.michaelmallari)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Michael%20Mallari-2867b2)](https://www.linkedin.com/in/mmallari/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40MichaelMallari-1da1f2)](https://twitter.com/MichaelMallari/)
+### Product Manager | Ex-Designer | Ex-Software Engineer
 
 ---
 
-My programming language history:
-- 1992 - BASIC (high school)
-- 1993 - Pascal (high school)
-- 1994 - Machine Code (high school)
-- 1995 - C (undergrad engineering school)
-- 1996 - C++ (undergrad engineering school)
-- 1996 - HTML (self-taught)
-- 1997 - SQL (undergrad engineering school)
-- 1998 - JavaScript (self-taught)
-- 1998 - Lingo (self-taught)
-- 1998 - Java (self-taught)
-- 1999 - SMIL (self-taught)
-- 2000 - ActionScript (self-taught)
-- 2003 - PHP (self-taught)
-- 2004 - CSS (self-taught)
-- 2017 - Snap! (self-taught)
-- 2019 - R (grad school)
-- 2020 - Python (grad school)
-- 2020 - Julia (self-taught)
+My career has evolved from "building the solutions right", to "building the right solutions", to identifying the most important problems to building the right solutions for.
