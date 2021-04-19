@@ -13,8 +13,8 @@
 -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=michaelmallari.michaelmallari)
-[![Linkedin Badge](https://img.shields.io/badge/-Michael_Mallari-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmallari/)](https://www.linkedin.com/in/mmallari/)
-[![Twitter Badge](https://img.shields.io/badge/-Michael_Mallari-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MichaelMallari/)](https://twitter.com/MichaelMallari/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Michael%20Mallari-2867b2)](https://www.linkedin.com/in/mmallari/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40MichaelMallari-1da1f2)](https://twitter.com/MichaelMallari/)
 
 ---
 
