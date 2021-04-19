@@ -14,6 +14,7 @@
 
 ### Product Manager | Ex-Designer | Ex-Software Engineer
 
-My career has evolved from "building the solutions right", to "building the right solutions", to identifying the most important problems to building the right solutions for.
+My 20+ years career has evolved from "building the solutions right", to "building the right solutions", to identifying the most important problems to solve for.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mmallari)
+[![LinkedIn](https://img.shields.io/badge/mmallari-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mmallari)
+[![Twitter](https://img.shields.io/badge/-@MichaelMallari-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MichaelMallari)](https://twitter.com/MichaelMallari)
