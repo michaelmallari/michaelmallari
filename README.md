@@ -14,7 +14,7 @@
 
 ### Product Manager | Ex-Designer | Ex-Software Engineer
 
-My 20+ years career has evolved from *building the solutions right*, to *building the right solutions*, to identifying the most important problems to solve for.
+My 20+ years career has evolved from "building the solutions right", to "building the right solutions", to identifying the most important problems to solve for.
 
 Most of the programming I currently do is with Julia, Python, and R for data science.  I'm bullish that the future of data science is with Julia—which is why I'm a [GitHub Sponsor of the Julia Programming Language](https://github.com/sponsors/JuliaLang) and the founder/organizer of the [Julia5280 meetup](https://www.meetup.com/Julia5280-Julia-Programming-Language/) based in Denver/Boulder.
 
