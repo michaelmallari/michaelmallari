@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, my name is Michael 👋
 
 <!--
 **michaelmallari/michaelmallari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  Here are some ideas to get you started:
@@ -12,6 +12,11 @@
 - ⚡ Fun fact: ...
 -->
 
+![](https://visitor-badge.laobi.icu/badge?page_id=michaelmallari.michaelmallari)
+[![Linkedin Badge](https://img.shields.io/badge/-Michael_Mallari-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmallari/)](https://www.linkedin.com/in/mmallari/)
+[![Twitter Badge](https://img.shields.io/badge/-Michael_Mallari-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MichaelMallari/)](https://twitter.com/MichaelMallari/)
+
+---
 
 My programming language history:
 - 1992 - BASIC (high school)
