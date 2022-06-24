@@ -14,7 +14,7 @@
 
 ### Product Manager | Ex-Designer | Ex-Software Engineer
 
-I’m an engineer by trade.  With my undergraduate degree in computer science, I spent the first 12 years of my career as a developer.  Career opportunities and graduate education took me from being a developer to being a designer (in preparation for what's next).  Today, I’m a product manager—7 years strong!
+I’m an engineer by trade.  With my undergraduate degree in computer science, I spent the first 12 years of my career as a developer.  Career opportunities and graduate education took me from being a developer to being a designer (in preparation for what's next).  Today, I’m a product manager—8 years strong!
 
 I like to say that my career of 20+ years has evolved from "building the solutions right" (as an engineer), to "building the right solutions” for customers (as a designer), to leading my team in creating delightful customer experiences that align with business goals (as a product manager).
 
