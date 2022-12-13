@@ -14,11 +14,11 @@
 
 ### Chief Data & Analytics Officer ... With Hybrid Skill-Set
 
-I’m an engineer by trade.  With my undergraduate degree in computer science, I spent the first 12 years of my career as a developer.  Career opportunities and graduate education took me from being a developer to being a product designer (in preparation for what's next).
+I’m an engineer by trade.  With my undergraduate degree in computer science, I spent the first 12 years of my career as a developer.  Career opportunities and an MBA education took me from being a developer to being a product designer, to being a product manager.  I like to say that my career of 20+ years has evolved from "building the solutions right" (as an engineer), to "building the right solutions” for customers (as a designer), to leading my team in creating delightful customer experiences that align with business goals (as a product manager).
 
-I like to say that my career of 20+ years has evolved from "building the solutions right" (as an engineer), to "building the right solutions” for customers (as a designer), to leading my team in creating delightful customer experiences that align with business goals (as a product manager).
+After another graduate degree (MS in Applied Analytics from Columbia University 🤓) had taken me to the third chapter of my career ... in data science, AI/ML, and analytics.  I'm here to help you! 
 
-💬 Ask me about
+💬 **Ask me about**
 * Leveraging data as a source, an asset, and a product
 * Recruiting talent and upskilling current talent
 * Applying AI/ML to spark change and create a unique competitive advantage
