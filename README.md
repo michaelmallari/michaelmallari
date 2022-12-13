@@ -22,7 +22,7 @@ Technical product management experience and additional graduate Ivy League educa
 * Recruiting talent and upskilling current talent
 * Leveraging data as a source, data an asset, and data as a product
 * Driving awareness to relevant AI/ML use cases
-* Applying AI/ML to spark change and create a unique competitive advantage
+* Applying AI/ML to spark change and creating a unique competitive advantage
 
 [![LinkedIn](https://img.shields.io/badge/mmallari-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mmallari)
 [![Twitter](https://img.shields.io/badge/-@MichaelMallari-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/MichaelMallari)](https://twitter.com/MichaelMallari)
