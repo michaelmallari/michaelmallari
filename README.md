@@ -19,8 +19,9 @@ I’m an engineer by trade.  With my undergraduate degree in computer science, I
 Technical product management experience and additional graduate Ivy League education (MS in Applied Analytics from Columbia University 🤓) has taken me to the third chapter of my career ... in data science, AI/ML, and analytics ... to power next-generation businesses.  And I'm here to help you! 
 
 💬 **Ask me about**
-* Leveraging data as a source, data an asset, and data as a product
 * Recruiting talent and upskilling current talent
+* Leveraging data as a source, data an asset, and data as a product
+* Driving awareness to relevant AI/ML use cases
 * Applying AI/ML to spark change and create a unique competitive advantage
 
 [![LinkedIn](https://img.shields.io/badge/mmallari-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mmallari)
