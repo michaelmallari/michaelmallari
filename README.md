@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Chief Data & Analytics Officer With Hybrid Skill-Set
+### Chief Data & Analytics Officer ... With Hybrid Skill-Set
 
 I’m an engineer by trade.  With my undergraduate degree in computer science, I spent the first 12 years of my career as a developer.  Career opportunities and graduate education took me from being a developer to being a product designer (in preparation for what's next).
 
