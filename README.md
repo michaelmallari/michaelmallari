@@ -22,7 +22,7 @@ After an additional graduate Ivy League education (MS in Applied Analytics from 
 * Career opportunities with a computer science education
 * K-12 educational milestones in computer science
 * Admissions to Ivy League schools
-* Roadmap to get that first $100k job straight out of college
+* Roadmap to get that $100k job straight out of college
 * Roadmap to get that first $200k job within 10 years out of college
 
 ### <a href="https://koalendar.com/e/30-min-exploratory-call-with-michael" target="_blank">Schedule an Exploratory Call</a>
