@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Ivy League-Educated, Private K-12 Computer Science Tutor
+### Ivy League-Educated K-12 Computer Science Tutor
 
 I’m an engineer by trade.  With my undergraduate degree in computer science, I spent the first 12 years of my career as a developer.  Career opportunities and an MBA education (from the University of Maryland 🐢) took me from being a developer to being a product designer, to being a product manager.  I like to say that my career of 20+ years has evolved from "building the solutions right" (as an engineer), to "building the right solutions” for customers (as a product designer), to leading my team in creating delightful customer experiences that align with business goals (as a product manager).
 
