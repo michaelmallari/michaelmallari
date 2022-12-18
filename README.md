@@ -16,7 +16,7 @@
 
 I’m an engineer by trade.  With my undergraduate degree in computer science, I spent the first 12 years of my career as a developer.  Career opportunities and an MBA education (from the University of Maryland 🐢) took me from being a developer to being a product designer, to being a product manager.  I like to say that my career of 20+ years has evolved from "building the solutions right" (as an engineer), to "building the right solutions” for customers (as a product designer), to leading my team in creating delightful customer experiences that align with business goals (as a product manager).
 
-After an additional graduate Ivy League education (MS in Applied Analytics from Columbia University 🦁) and understanding the needs of TODAY'S students, I have developed a student-centric, personalized learning experience approach to spark an interest and passion in computer science to today's K-12 students.  And I'm here to help your child! 
+After an additional graduate Ivy League education (MS in Applied Analytics from Columbia University 🦁) and understanding the needs of TODAY'S students, I have developed a student-centric, personalized learning experience approach to spark an interest and passion in computer science in today's K-12 students.  And I'm here to help your child! 
 
 💬 **Ask me about**
 * Career opportunities with a computer science education
