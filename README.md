@@ -12,15 +12,15 @@
 - ⚡ Fun fact: ...
 -->
 
-### Ivy League-Educated, K-12 Computer Science Tutor (as a side-hustle)
+### Ivy League-Educated, K-12 AI Tutor (as a side-hustle)
 
 I’m an engineer by trade.  With my undergraduate degree in computer science, I spent the first 12 years of my career as a developer.  New career opportunities and an MBA education (from the University of Maryland 🐢) took me from being a developer to being a product designer, to being a product manager.  I like to say that my career of 20+ years has evolved from "building the solutions right" (as an engineer), to "building the right solutions” for customers (as a product designer), to leading my team in creating delightful customer experiences that align with business goals (as a product manager).
 
-After an additional graduate Ivy League education (MS in Applied Analytics from Columbia University 🦁) and witnessing the needs of TODAY'S students, I have developed a student-centric, personalized learning experience approach to spark an interest and passion in computer science in today's K-12 students.  And I'm here to help your child! 
+After an additional graduate Ivy League education (MS in Applied Analytics from Columbia University 🦁) and witnessing the needs of TODAY'S students, I have developed a student-centric, personalized learning experience approach to spark an interest and passion in AI in today's K-12 students.  And I'm here to help your child! 
 
 💬 **Ask me about**
-* Career opportunities with a computer science education
-* K-12 educational milestones in computer science
+* Career opportunities with am AI education
+* K-12 educational milestones in AI
 * Admissions to Ivy League schools
 * Roadmap to get that $100k job straight out of college
 * Roadmap to get that first $200k job within 10 years out of college
