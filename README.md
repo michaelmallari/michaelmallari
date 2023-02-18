@@ -33,3 +33,9 @@ After an additional graduate Ivy League education (MS in Applied Analytics from 
 [![LinkedIn](https://img.shields.io/badge/mmallari-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mmallari)
 [![Twitter](https://img.shields.io/badge/-@MichaelMallari-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/MichaelMallari)](https://twitter.com/MichaelMallari)
 [![TikTok](https://img.shields.io/badge/-@michaelmallari.co-black?style=flat&logo=tiktok&link=https://tiktok.com/@michaelmallari.co)](https://tiktok.com/@michaelmallari.co)
+
+---
+
+### GitHub Gist/Google Colab Notebook Resources:
+
+* [DataCamp > Career Track > Machine Learning Scientist with Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-machine-learning-scientist-with-python.md)
