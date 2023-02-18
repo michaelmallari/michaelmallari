@@ -6,7 +6,7 @@
 1. [Unsupervised Learning with scikit-learn](https://gist.github.com/michaelmallari/dba3af6855df09643e090adf99dd57dd)
 1. [Linear Classifier in Python](https://gist.github.com/michaelmallari/bb19394231d950486cceba756078aca8)
 1. [Machine Learning with Tree-Based Models in Python](https://gist.github.com/michaelmallari/7092bb293f5ef296f26d6f06ea71d09d)
-1. Extreme Gradient Boosting with XGBoost
+1. [Extreme Gradient Boosting with XGBoost](https://gist.github.com/michaelmallari/31a390e6d86ffe189ccb99b1293d3a04)
 1. Cluster Analysis in Python
 1. Dimensionality Reduction in Python
 1. Preprocessing for Machine Learning in Python
