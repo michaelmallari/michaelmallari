@@ -38,4 +38,12 @@ After an additional graduate Ivy League education (MS in Applied Analytics from 
 
 📓 **GitHub Gist/Google Colab Notebook Resources**
 
-* [DataCamp > Career Track > Machine Learning Scientist with Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-machine-learning-scientist-with-python.md)
+DataCamp > Career Tracks
+* Python Programmer
+* R Programmer
+* Data Analyst with Python
+* Data Analyst with R
+* Data Scientist with Python
+* Data Scientist with R
+* [Machine Learning Scientist with Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-machine-learning-scientist-with-python.md)
+* Machine Learning Scientist with R
