@@ -8,7 +8,7 @@
 1. [Machine Learning with Tree-Based Models in Python](https://gist.github.com/michaelmallari/7092bb293f5ef296f26d6f06ea71d09d)
 1. [Extreme Gradient Boosting with XGBoost](https://gist.github.com/michaelmallari/31a390e6d86ffe189ccb99b1293d3a04)
 1. [Cluster Analysis in Python](https://gist.github.com/michaelmallari/5bd74ed1a6dbb485cbdcb34e2528f88d)
-1. Dimensionality Reduction in Python
+1. [Dimensionality Reduction in Python](https://gist.github.com/michaelmallari/398615922ea64a7a8299973eb8f9091f)
 1. Preprocessing for Machine Learning in Python
 1. Machine Learning for Time Series Data in Python
 1. Feature Engineering for Machine Learning in Python
