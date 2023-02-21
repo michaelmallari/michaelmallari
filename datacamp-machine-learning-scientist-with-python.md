@@ -1,4 +1,4 @@
-# Career Track: Machine Learning Scientist with Python (<a href="https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python" target="_blank">DataCamp</a>)
+# DataCamp Career Track: <a href="https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python" target="_blank">Machine Learning Scientist with Python</a>
 
 ## GitHub Gist > Google Colab Notebooks
 
