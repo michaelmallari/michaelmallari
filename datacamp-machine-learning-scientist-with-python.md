@@ -10,7 +10,7 @@
 1. [Cluster Analysis in Python](https://gist.github.com/michaelmallari/5bd74ed1a6dbb485cbdcb34e2528f88d)
 1. [Dimensionality Reduction in Python](https://gist.github.com/michaelmallari/896e1eec851c5c984e9b18d213399d25)
 1. [Preprocessing for Machine Learning in Python](https://gist.github.com/michaelmallari/44751d3632526d5f4497d57878f24c65)
-1. Machine Learning for Time Series Data in Python
+1. [Machine Learning for Time Series Data in Python](https://gist.github.com/michaelmallari/478dc980e8cfaa613e4130f09bb6fec8)
 1. Feature Engineering for Machine Learning in Python
 1. Model Validation in Python
 1. Introduction to Natural Language Processing in Python
