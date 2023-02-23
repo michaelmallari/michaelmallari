@@ -9,7 +9,7 @@
 1. [Extreme Gradient Boosting with XGBoost](https://gist.github.com/michaelmallari/31a390e6d86ffe189ccb99b1293d3a04)
 1. [Cluster Analysis in Python](https://gist.github.com/michaelmallari/5bd74ed1a6dbb485cbdcb34e2528f88d)
 1. [Dimensionality Reduction in Python](https://gist.github.com/michaelmallari/896e1eec851c5c984e9b18d213399d25)
-1. Preprocessing for Machine Learning in Python
+1. [Preprocessing for Machine Learning in Python](https://gist.github.com/michaelmallari/44751d3632526d5f4497d57878f24c65)
 1. Machine Learning for Time Series Data in Python
 1. Feature Engineering for Machine Learning in Python
 1. Model Validation in Python
