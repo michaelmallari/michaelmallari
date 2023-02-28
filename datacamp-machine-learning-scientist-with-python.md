@@ -11,8 +11,8 @@
 1. [Dimensionality Reduction in Python](https://gist.github.com/michaelmallari/896e1eec851c5c984e9b18d213399d25)
 1. [Preprocessing for Machine Learning in Python](https://gist.github.com/michaelmallari/44751d3632526d5f4497d57878f24c65)
 1. [Machine Learning for Time Series Data in Python](https://gist.github.com/michaelmallari/478dc980e8cfaa613e4130f09bb6fec8)
-1. Feature Engineering for Machine Learning in Python
-1. Model Validation in Python
+1. [Feature Engineering for Machine Learning in Python](https://gist.github.com/michaelmallari/5fd85b5ebd5e4984e11850e0961d8cc6)
+1. [Model Validation in Python](https://gist.github.com/michaelmallari/e17204880c83c3c867ccb76745fcaf81)
 1. Introduction to Natural Language Processing in Python
 1. Feature Engineering for NLP in Python
 1. Introduction to TensorFlow in Python
