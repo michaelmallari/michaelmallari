@@ -21,7 +21,7 @@
 1. [Advanced Deep Learning with Keras](https://gist.github.com/michaelmallari/3e85d69e6a01d40dffb0e556a22b770e)
 1. [Image Processing in Python](https://gist.github.com/michaelmallari/236c14281ce1bba272d0a68d636c9ef8)
 1. [Image Processing with Keras in Python](https://gist.github.com/michaelmallari/4e21959bba2777becb9b3d355fdc01aa)
-1. Hyperparameter Tuning in Python
+1. [Hyperparameter Tuning in Python](https://gist.github.com/michaelmallari/a9e6821cee29c4c90830a4cc8bcf4c22)
 1. Introduction to PySpark
 1. Machine Learning with PySpark
 1. Winning a Kaggle Competition in Python
