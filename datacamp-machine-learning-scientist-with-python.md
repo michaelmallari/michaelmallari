@@ -14,7 +14,7 @@
 1. [Feature Engineering for Machine Learning in Python](https://gist.github.com/michaelmallari/5fd85b5ebd5e4984e11850e0961d8cc6)
 1. [Model Validation in Python](https://gist.github.com/michaelmallari/e17204880c83c3c867ccb76745fcaf81)
 1. [Introduction to Natural Language Processing in Python](https://gist.github.com/michaelmallari/adebb4df99c98336d797f2816ee26a90)
-1. Feature Engineering for NLP in Python
+1. [Feature Engineering for NLP in Python](https://gist.github.com/michaelmallari/9fa4e1f475c5e6770e5b351da276f219)
 1. Introduction to TensorFlow in Python
 1. Introduction to Deep Learning in Python
 1. Introduction to Deep Learning with Keras
@@ -32,7 +32,7 @@
 
 <img src="https://www.michaelmallari.com/img/headshot.jpg" width="160" height="160" align="right" style="margin: 0px 0px 160px 20px; border-radius: 50%;" />
 
-Michael is a hybrid thinker and doer—a byproduct of being a CliftonStrengths "Learner" over time. With 20+ years of seasoning from hands-on, "product trio" experiences (software engineering, product design, and product management), he helps organizations discover market needs, mobilize internal and external resources, and deliver delightful customer experiences that align with business goals—in this *AI-first* era.
+Michael is a hybrid thinker and doer—a byproduct of being a CliftonStrengths "Learner" over time. With 20+ years of seasoning from hands-on "product trio" experiences (software engineering, product design, and product management), he helps organizations discover market needs, mobilize internal and external resources, and deliver delightful customer experiences that align with business goals—in this *AI-first* era.
 
 He has been entrusted with problem-solving for brands—ranging from Fortune 500 companies to early-stage startups to not-for-profit organizations.
 
