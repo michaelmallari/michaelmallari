@@ -18,7 +18,7 @@
 1. [Introduction to TensorFlow in Python](https://gist.github.com/michaelmallari/17304ff66136b02360d277f9347b27a8)
 1. [Introduction to Deep Learning in Python](https://gist.github.com/michaelmallari/7f82d3dde6dc4af71f9cbbfed06c8914)
 1. [Introduction to Deep Learning with Keras](https://gist.github.com/michaelmallari/2ba3325e0fedc06d2d60d1841312a1b0)
-1. Advanced Deep Learning with Keras
+1. [Advanced Deep Learning with Keras](https://gist.github.com/michaelmallari/3e85d69e6a01d40dffb0e556a22b770e)
 1. Image Processing in Python
 1. Image Processing with Keras in Python
 1. Hyperparameter Tuning in Python
