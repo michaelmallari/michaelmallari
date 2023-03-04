@@ -1,6 +1,6 @@
 # DataCamp Career Track: <a href="https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python" target="_blank">Machine Learning Scientist with Python</a>
 
-## GitHub Gist > Google Colab Notebooks
+## Jupyter Notebooks
 
 1. [Supervised Learning with scikit-learn](https://gist.github.com/michaelmallari/4650110348136e6bf7b42eaf5aeab099)
 1. [Unsupervised Learning with scikit-learn](https://gist.github.com/michaelmallari/dba3af6855df09643e090adf99dd57dd)
