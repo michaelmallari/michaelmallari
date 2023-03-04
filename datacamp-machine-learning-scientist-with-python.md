@@ -16,7 +16,7 @@
 1. [Introduction to Natural Language Processing in Python](https://gist.github.com/michaelmallari/adebb4df99c98336d797f2816ee26a90)
 1. [Feature Engineering for NLP in Python](https://gist.github.com/michaelmallari/9fa4e1f475c5e6770e5b351da276f219)
 1. [Introduction to TensorFlow in Python](https://gist.github.com/michaelmallari/17304ff66136b02360d277f9347b27a8)
-1. Introduction to Deep Learning in Python
+1. [Introduction to Deep Learning in Python](https://gist.github.com/michaelmallari/7f82d3dde6dc4af71f9cbbfed06c8914)
 1. Introduction to Deep Learning with Keras
 1. Advanced Deep Learning with Keras
 1. Image Processing in Python
