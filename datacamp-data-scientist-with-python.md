@@ -6,7 +6,7 @@
 1. [Intermediate Python](https://gist.github.com/michaelmallari/a8bb2afd8b1bae349c43a09571859381)
 1. [Data Manipulation with pandas](https://gist.github.com/michaelmallari/72da10b6d5c28f01ffcacac2370d3ce7)
 1. [Joining Data with pandas](https://gist.github.com/michaelmallari/8b512b3981b3b7fe96d0a3ab4c4cc672)
-1. Introduction to Statistics in Python
+1. [Introduction to Statistics in Python](https://gist.github.com/michaelmallari/508323f0212a260a7f4e71988c557363)
 1. Introduction to Data Visualization with Matplotlib
 1. Introduction to Data Visualization with Seaborn
 1. Introduction to Numpy
