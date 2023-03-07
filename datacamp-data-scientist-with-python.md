@@ -14,7 +14,7 @@
 1. [Python Data Science Toolbox (Part 2)](https://gist.github.com/michaelmallari/adced96a83afddeff52d278fd88db9c2)
 1. Intermediate Data Visualization with Seaborn
 1. Data Communication Concepts
-1. Introduction to Importing Data in Python
+1. [Introduction to Importing Data in Python](https://gist.github.com/michaelmallari/9535bebe4998e531dcb2e66afaa58729)
 1. Intermediate to Importing Data in Python
 1. Cleaning Data in Python
 1. Working with Dates and Times in Python
