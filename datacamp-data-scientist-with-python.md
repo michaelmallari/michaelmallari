@@ -2,7 +2,7 @@
 
 ## Jupyter Notebooks
 
-1. Introduction to Python
+1. [Introduction to Python](https://gist.github.com/michaelmallari/edfa39ef1a0fb9e5aa438922d031891e)
 1. Intermediate Python
 1. [Data Manipulation with pandas](https://gist.github.com/michaelmallari/72da10b6d5c28f01ffcacac2370d3ce7)
 1. Joining Data with pandas
