@@ -9,7 +9,7 @@
 1. [Introduction to Statistics in Python](https://gist.github.com/michaelmallari/508323f0212a260a7f4e71988c557363)
 1. Introduction to Data Visualization with Seaborn
 1. [Exploratory Data Analysis in Python](https://gist.github.com/michaelmallari/1a27255cc064947bdb8b72502cf6bb1f)
-1. Sampling in Python
+1. [Sampling in Python](https://gist.github.com/michaelmallari/5862cc917bde5464d0e7e078a014ba6e)
 1. Hypothesis Testing in Python
 
 ---
