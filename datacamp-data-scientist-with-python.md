@@ -19,7 +19,7 @@
 1. Cleaning Data in Python
 1. Working with Dates and Times in Python
 1. Writing Functions in Python
-1. Exploratory Data Analysis in Python
+1. [Exploratory Data Analysis in Python](https://gist.github.com/michaelmallari/1a27255cc064947bdb8b72502cf6bb1f)
 1. Analyzing Police Activity with pandas
 1. Introduction to Regression with statsmodels in Python
 1. Sampling in Python
