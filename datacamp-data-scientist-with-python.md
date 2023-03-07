@@ -15,7 +15,7 @@
 1. Intermediate Data Visualization with Seaborn
 1. Data Communication Concepts
 1. [Introduction to Importing Data in Python](https://gist.github.com/michaelmallari/9535bebe4998e531dcb2e66afaa58729)
-1. Intermediate to Importing Data in Python
+1. [Intermediate Importing Data in Python](https://gist.github.com/michaelmallari/2de026c03232fce6c86569eac0ef1aa7)
 1. Cleaning Data in Python
 1. Working with Dates and Times in Python
 1. Writing Functions in Python
