@@ -2,7 +2,7 @@
 
 ## Jupyter Notebooks
 
-1. Introduction to Data Science in Python
+1. [Introduction to Data Science in Python](https://gist.github.com/michaelmallari/db51ca02ce570917cb8f39aa53697344)
 1. Data Manipulation with pandas
 1. Python Data Science Toolbox (Part 1)
 1. Python Data Science Toolbox (Part 2)
