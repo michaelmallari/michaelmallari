@@ -3,7 +3,7 @@
 ## Jupyter Notebooks
 
 1. [Introduction to Data Science in Python](https://gist.github.com/michaelmallari/db51ca02ce570917cb8f39aa53697344)
-1. Data Manipulation with pandas
+1. [Data Manipulation with pandas](https://gist.github.com/michaelmallari/72da10b6d5c28f01ffcacac2370d3ce7)
 1. Python Data Science Toolbox (Part 1)
 1. Python Data Science Toolbox (Part 2)
 1. Data Types for Data Science in Python
