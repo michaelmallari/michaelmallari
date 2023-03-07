@@ -8,7 +8,7 @@
 1. [Joining Data with pandas](https://gist.github.com/michaelmallari/8b512b3981b3b7fe96d0a3ab4c4cc672)
 1. [Introduction to Statistics in Python](https://gist.github.com/michaelmallari/508323f0212a260a7f4e71988c557363)
 1. Introduction to Data Visualization with Seaborn
-1. Exploratory Data Analysis in Python
+1. [Exploratory Data Analysis in Python](https://gist.github.com/michaelmallari/1a27255cc064947bdb8b72502cf6bb1f)
 1. Sampling in Python
 1. Hypothesis Testing in Python
 
