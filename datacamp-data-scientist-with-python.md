@@ -22,7 +22,7 @@
 1. [Exploratory Data Analysis in Python](https://gist.github.com/michaelmallari/1a27255cc064947bdb8b72502cf6bb1f)
 1. Analyzing Police Activity with pandas
 1. Introduction to Regression with statsmodels in Python
-1. Sampling in Python
+1. [Sampling in Python](https://gist.github.com/michaelmallari/5862cc917bde5464d0e7e078a014ba6e)
 1. Hypothesis Testing in Python
 1. Supervised Learning with scikit-learn
 1. Unsupervised Learning in Python
