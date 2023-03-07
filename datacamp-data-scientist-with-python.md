@@ -10,7 +10,7 @@
 1. Introduction to Data Visualization with Matplotlib
 1. Introduction to Data Visualization with Seaborn
 1. Introduction to Numpy
-1. Python Data Science Toolbox (Part 1)
+1. [Python Data Science Toolbox (Part 1)](https://gist.github.com/michaelmallari/e490ab0b73c127625dd08e6a49c73c59)
 1. Python Data Science Toolbox (Part 2)
 1. Intermediate Data Visualization with Seaborn
 1. Data Communication Concepts
