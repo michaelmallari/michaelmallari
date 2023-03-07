@@ -24,9 +24,9 @@
 1. Introduction to Regression with statsmodels in Python
 1. [Sampling in Python](https://gist.github.com/michaelmallari/5862cc917bde5464d0e7e078a014ba6e)
 1. [Hypothesis Testing in Python](https://gist.github.com/michaelmallari/389b4650cf2e6a1849aa6fdb2dc82952)
-1. Supervised Learning with scikit-learn
-1. Unsupervised Learning in Python
-1. Machine Learning with Tree-Based Models in Python  
+1. [Supervised Learning with scikit-learn](https://gist.github.com/michaelmallari/4650110348136e6bf7b42eaf5aeab099)
+1. [Unsupervised Learning in Python](https://gist.github.com/michaelmallari/dba3af6855df09643e090adf99dd57dd)
+1. [Machine Learning with Tree-Based Models in Python](https://gist.github.com/michaelmallari/7092bb293f5ef296f26d6f06ea71d09d)
 
 ---
 
