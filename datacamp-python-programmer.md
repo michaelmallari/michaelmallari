@@ -7,7 +7,7 @@
 1. [Python Data Science Toolbox (Part 1)](https://gist.github.com/michaelmallari/e490ab0b73c127625dd08e6a49c73c59)
 1. [Python Data Science Toolbox (Part 2)](https://gist.github.com/michaelmallari/adced96a83afddeff52d278fd88db9c2)
 1. Data Types for Data Science in Python
-1. Writing Efficient Python Code
+1. [Writing Efficient Python Code](https://gist.github.com/michaelmallari/883d90dd837512112bc06d72ffc99d46)
 1. Working with Dates and Times in Python
 1. Regular Expressions in Python
 1. Web Scraping in Python
