@@ -18,7 +18,7 @@
 1. [Intermediate Importing Data in Python](https://gist.github.com/michaelmallari/2de026c03232fce6c86569eac0ef1aa7)
 1. Cleaning Data in Python
 1. Working with Dates and Times in Python
-1. Writing Functions in Python
+1. [Writing Functions in Python](https://gist.github.com/michaelmallari/3a376d3352f0e54f6c23b6013536f884)
 1. [Exploratory Data Analysis in Python](https://gist.github.com/michaelmallari/1a27255cc064947bdb8b72502cf6bb1f)
 1. Analyzing Police Activity with pandas
 1. Introduction to Regression with statsmodels in Python
