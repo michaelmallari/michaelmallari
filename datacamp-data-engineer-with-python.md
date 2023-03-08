@@ -5,8 +5,8 @@
 1. Understanding Data Engineering
 1. Introduction to Data Engineering
 1. Streamlined Data Ingestion with pandas
-1. Writing Efficient Python Code
-1. Writing Functions in Python
+1. [Writing Efficient Python Code](https://gist.github.com/michaelmallari/883d90dd837512112bc06d72ffc99d46)
+1. [Writing Functions in Python](https://gist.github.com/michaelmallari/3a376d3352f0e54f6c23b6013536f884)
 1. Introduction to Shell
 1. Data Processing in Shell
 1. Introduction to Bash Scripting
