@@ -3,8 +3,8 @@
 ## Jupyter Notebooks
 
 1. [Introduction to Statistics in R](https://gist.github.com/michaelmallari/86979c543fbe78d20d5cc8dc729d5d87)
-1. [Foundations of Probability in R]()
-1. [Introduction to Regression in R]()
+1. [Foundations of Probability in R](https://gist.github.com/michaelmallari/c9ab528b1c2e439b12d34365ab4381cb)
+1. [Introduction to Regression in R](https://gist.github.com/michaelmallari/bd088e75c87bd19deaf999f27bc16dcc)
 1. [Intermediate Regression in R]()
 1. [Sampling in R]()
 1. [Hypothesis Testing in R]()
