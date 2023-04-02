@@ -11,10 +11,10 @@
 1. [Experimental Design in R](https://gist.github.com/michaelmallari/8a495b49e985e93ae15575714b7c23e6)
 1. [Analyzing Survey Data in R](https://gist.github.com/michaelmallari/4144eb783611b5ed4d151f738ed04a85)
 1. [Hierarchical and Mixed Effects Models in R](https://gist.github.com/michaelmallari/7609213ab52c23736e5a78b06350253a)
-1. [Survival Analysis in R]()
-1. [Fundamentals of Bayesian Data Analysis in R]()
-1. [Factor Analysis in R]()
-1. [Foundations of Inference in R]()
+1. [Survival Analysis in R](https://gist.github.com/michaelmallari/7d90d92e83c0ca25a7a79bc254f8bfdc)
+1. [Fundamentals of Bayesian Data Analysis in R](https://gist.github.com/michaelmallari/4210e1a247f0cde215418c2aaf4633be)
+1. [Factor Analysis in R](https://gist.github.com/michaelmallari/19b5513eebfdf40062c9711092298e20)
+1. [Foundations of Inference in R](https://gist.github.com/michaelmallari/070eb4ba2588de42b397cf24bf122715)
 
 ---
 
