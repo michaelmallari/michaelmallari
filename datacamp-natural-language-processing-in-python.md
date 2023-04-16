@@ -6,8 +6,8 @@
 1. [Sentiment Analysis in Python](https://gist.github.com/michaelmallari/0bb8cf832dc22718229f855116970b3e)
 1. [Building Chatbots in Python](https://gist.github.com/michaelmallari/fad66dd203307343cf0cc350c3de6ec9)
 1. [Advanced NLP with spaCy](https://gist.github.com/michaelmallari/ce47cc8cf5a74d9aacfbe53a188dba96)
-1. [Spoken Language Processing in Python]()
-1. [Feature Engineering for NLP in Python]()
+1. [Spoken Language Processing in Python](https://gist.github.com/michaelmallari/b88164d3613bab2cff21b7078858a369)
+1. [Feature Engineering for NLP in Python](https://gist.github.com/michaelmallari/edb5cb0794ba362f50086201be36e1d4)
 
 ---
 
