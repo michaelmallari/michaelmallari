@@ -1,4 +1,4 @@
-# DataCamp Career Track: <a href="[https://app.datacamp.com/learn/career-tracks/data-analyst-with-python](https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python)" target="_blank">Natural Language Processing in Python</a>
+# DataCamp Career Track: <a href="https://app.datacamp.com/learn/skill-tracks/natural-language-processing-in-python" target="_blank">Natural Language Processing in Python</a>
 
 ## Jupyter Notebooks
 
