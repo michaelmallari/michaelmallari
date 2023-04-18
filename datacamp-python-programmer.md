@@ -10,7 +10,7 @@
 1. [Writing Efficient Python Code](https://gist.github.com/michaelmallari/883d90dd837512112bc06d72ffc99d46)
 1. Working with Dates and Times in Python
 1. Regular Expressions in Python
-1. Web Scraping in Python
+1. [Web Scraping in Python](https://gist.github.com/michaelmallari/4abe1f784124226f9674a4e57f1b857b)
 1. [Writing Functions in Python](https://gist.github.com/michaelmallari/3a376d3352f0e54f6c23b6013536f884)
 1. Introduction to Shell
 1. Software Engineering for Data Scientists in Python
