@@ -46,4 +46,5 @@ DataCamp > Career Tracks
 * [Machine Learning Scientist with Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-machine-learning-scientist-with-python.md) and/or Machine Learning Scientist with R
 
 DataCamp > Skills Track
+* [Time Series with Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-time-series-with-python.md)
 * [Natural Language Processing in Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-natural-language-processing-in-python.md)
