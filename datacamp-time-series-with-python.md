@@ -5,7 +5,7 @@
 1. [Manipulating Time Series Data in Python](https://gist.github.com/michaelmallari/ad08244044e9e983f6d1fad42b0a26b0)
 1. [Time Series Analysis in Python]()
 1. [Visualizing Time Series Data in Python]()
-1. [ARIMA Models in Python]
+1. [ARIMA Models in Python]()
 1. [Machine Learning for Time Series Data in Python]()
 
 ---
