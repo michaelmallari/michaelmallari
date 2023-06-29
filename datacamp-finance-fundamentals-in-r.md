@@ -4,10 +4,10 @@
 
 1. [Introduction to R for Finance](https://gist.github.com/michaelmallari/5761ec6d22dd1187677286c1c1f86a2b)
 1. [Intermediate R for Finance](https://gist.github.com/michaelmallari/a5b5171fafa5bc6cc94b3875222fb088)
-1. [Manipulating Time Series Data with xts and zoo in R]()
-1. [Importing and Managing Financial Data in R]()
-1. [Introduction to Portfolio Analysis in R]()
-1. [Intermediate Portfolio Analysis in R]()
+1. [Manipulating Time Series Data with xts and zoo in R](https://gist.github.com/michaelmallari/03c29a46f2b8a185a62fe69b04d508b8)
+1. [Importing and Managing Financial Data in R](https://gist.github.com/michaelmallari/4ebc568649d14d86224796fb6a757ce6)
+1. [Introduction to Portfolio Analysis in R](https://gist.github.com/michaelmallari/35d4eb883028f886f04b8c20a8f1a3ad)
+1. [Intermediate Portfolio Analysis in R](https://gist.github.com/michaelmallari/e16254ab1e8b2b82cf9e416eb2cce3e2)
  
 ---
 
