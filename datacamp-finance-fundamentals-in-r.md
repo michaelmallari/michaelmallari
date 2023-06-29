@@ -1,4 +1,4 @@
-# DataCamp Skill Track: <a href="https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-r" target="_blank"Finance Fundamentals in R</a>
+# DataCamp Skill Track: <a href="https://app.datacamp.com/learn/skill-tracks/finance-fundamentals-in-r" target="_blank">Finance Fundamentals in R</a>
 
 ## Jupyter Notebooks
 
