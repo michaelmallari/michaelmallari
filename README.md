@@ -47,4 +47,5 @@ DataCamp > Career Tracks
 
 DataCamp > Skills Track
 * [Time Series with Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-time-series-with-python.md)
+* [Finance Fundamentals in R](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-finance-fundamentals-in-r.md)
 * [Natural Language Processing in Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-natural-language-processing-in-python.md)
