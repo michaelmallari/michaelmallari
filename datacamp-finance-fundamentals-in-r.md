@@ -21,5 +21,5 @@ He has been entrusted with problem-solving for brands—ranging from Fortune 500
 
 Michael earned his MS in Applied Analytics from Columbia University, MBA from the University of Maryland, College Park, and BS in Computer Science from New York Institute of Technology.
 
-<a href="https://github.com/michaelmallari" target="_blank">GitHub</a> | <a href="https://www.kaggle.com/michaelmallari" target="_blank">Kaggle</a> | <a href="https://www.linkedin.com/in/mmallari" target="_blank">LinkedIn</a> | <a href="https://www.michaelmallari.com" target="_blank">michaelmallari.com</a> | <a href="https://www.pinterest.com/michaelmallari" target="_blank">Pinterest</a> | <a href="https://twitter.com/MichaelMallari" target="_blank">Twitter</a>
+<a href="https://github.com/michaelmallari" target="_blank">GitHub</a> | <a href="https://www.kaggle.com/michaelmallari" target="_blank">Kaggle</a> | <a href="https://www.linkedin.com/in/mmallari" target="_blank">LinkedIn</a> | <a href="https://www.michaelmallari.com" target="_blank">MichaelMallari.com</a> | <a href="https://www.pinterest.com/michaelmallari" target="_blank">Pinterest</a> | <a href="https://twitter.com/MichaelMallari" target="_blank">Twitter</a>
 
