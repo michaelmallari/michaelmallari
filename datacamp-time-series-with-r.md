@@ -4,7 +4,7 @@
 
 1. [Manipulating Time Series Data with xts and zoo in R](https://gist.github.com/michaelmallari/03c29a46f2b8a185a62fe69b04d508b8)
 1. [Time Series Analysis in R](https://gist.github.com/michaelmallari/9e46ecc7070495162482403618ba1eda)
-1. [ARIMA Models in R]()
+1. [ARIMA Models in R](https://gist.github.com/michaelmallari/77c8392250b30552cbb5050ef90e245e)
 1. [Forecasting in R]()
 1. [Visualizing Time Series Data in R]()
 1. [Case Study: Analyzing City Time Series Data in R]()
