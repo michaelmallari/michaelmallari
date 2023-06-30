@@ -14,7 +14,7 @@
 1. [Introduction to Portfolio Analysis in R](https://gist.github.com/michaelmallari/35d4eb883028f886f04b8c20a8f1a3ad)
 1. [Intermediate Portfolio Analysis in R](https://gist.github.com/michaelmallari/e16254ab1e8b2b82cf9e416eb2cce3e2)
 1. [Bond Valuation and Analysis in R]()
-1. [Credit Risk Modeling in R]()
+1. [Credit Risk Modeling in R](https://gist.github.com/michaelmallari/98ee76144008ac4d7713d3bdac004bc4)
 1. [Quantitative Risk Management in R]()
 1. [Financial Trading in R]()
 
