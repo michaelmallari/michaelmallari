@@ -7,7 +7,7 @@
 1. [Bond Valuation and Analysis in R]()
 1. [Financial Trading in R]()
 1. [Credit Risk Modeling in R]()
-1. [GARCH Models in R]()
+1. [GARCH Models in R](https://gist.github.com/michaelmallari/748651e7e4a082f12c65cce6a998d89c)
 
 ---
 
