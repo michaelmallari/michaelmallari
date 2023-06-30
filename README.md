@@ -42,6 +42,7 @@ DataCamp > Career Tracks
 * [Data Engineer with Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-data-engineer-with-python.md)
 * [Data Analyst with Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-data-analyst-with-python.md) and/or Data Analyst with R
 * [Statistician with R](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-statistician-with-r.md)
+* [Quantitative Analyst with R](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-quantitative-analyst-with-r.md)
 * [Data Scientist with Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-data-scientist-with-python.md) and/or Data Scientist with R
 * [Machine Learning Scientist with Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-machine-learning-scientist-with-python.md) and/or Machine Learning Scientist with R
 
