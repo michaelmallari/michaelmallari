@@ -2,12 +2,12 @@
 
 ## Jupyter Notebooks
 
-1. [Supervised Learning in R: Classification]()
-1. [Supervised Learning in R: Regression]()
-1. [Unsupervised Learning in R]()
-1. [Machine Learning with caret in R]()
-1. [Modeling tidymodels in R]()
-1. [Machine Learning with Tree-Based Models in R]()
+1. [Supervised Learning in R: Classification](https://gist.github.com/michaelmallari/d80c6ae546f2c2c7697afa7be5071f88)
+1. [Supervised Learning in R: Regression](https://gist.github.com/michaelmallari/980cce5bcde516db1789d6bf59baade1)
+1. [Unsupervised Learning in R](https://gist.github.com/michaelmallari/f2cde2cc82bdfc49eb6f4a0fc6c7ff1d)
+1. [Machine Learning with caret in R](https://gist.github.com/michaelmallari/3b3ec8b38608a68b689331bb79fc531c)
+1. [Modeling tidymodels in R](https://gist.github.com/michaelmallari/17ba68afa65e9ebdebbd4679c1c75b45)
+1. [Machine Learning with Tree-Based Models in R](https://gist.github.com/michaelmallari/aa52d1857e6c3691c97ab58760a7e580)
 
 ---
 
