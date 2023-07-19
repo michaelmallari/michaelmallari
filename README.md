@@ -50,4 +50,5 @@ DataCamp > Skills Track
 * [Finance Fundamentals in R](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-finance-fundamentals-in-r.md)
 * [Time Series with Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-time-series-with-python.md) and/or [Time Series with R](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-time-series-with-r.md)
 * [Applied Finance in R](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-applied-finance-in-r.md)
+* [Machine Learning Fundamentals in R](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-machine-learning-fundamentals-in-r.md)
 * [Natural Language Processing in Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-natural-language-processing-in-python.md)
