@@ -4,7 +4,7 @@
 
 1. [Unsupervised Learning in R](https://gist.github.com/michaelmallari/456c94cf90136f79109f41fe6f1d5706)
 1. [Cluster Analysis in R](https://gist.github.com/michaelmallari/7d2ee7b80f622bad143e2de0757185ef)
-1. [Factor Analysis in R](https://gist.github.com/michaelmallari/77084a0654d75f96e7c8c9850a3c286d)
+1. [Factor Analysis in R](https://gist.github.com/michaelmallari/64c6f7ba742f2d7c58e108f767b3190a)
 
 ---
 
