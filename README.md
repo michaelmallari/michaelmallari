@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Ivy League-Educated, K-12 CS Tutor (side-hustle)
+### Ivy League Adjunct Faculty + CS Tutor/Coach
 
 <img src="https://www.michaelmallari.com/img/headshot.jpg" width="120" height="120" align="right" />
 
@@ -25,7 +25,6 @@ After an additional graduate Ivy League education (MS in Applied Analytics from 
 * K-12 educational milestones in CS
 * Admissions to Ivy League schools
 * Roadmap to get that $100k job straight out of college
-* Roadmap to get that first $200k job within 10 years out of college
 
 ## <a href="https://koalendar.com/e/30-min-exploratory-call-with-michael" target="_blank" style="background-color: #eb3300; color: #fff;">Schedule an Exploratory Call</a>
 
