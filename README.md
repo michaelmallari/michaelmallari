@@ -26,7 +26,7 @@ Witnessing the needs of TODAY'S students after an additional graduate Ivy League
 * Admissions to Ivy League STEM programs
 * Roadmap to get that $100k job straight out of college
 
-## <a href="https://koalendar.com/e/30-min-exploratory-call-with-michael" target="_blank" style="background-color: #eb3300; color: #fff;">Schedule an Exploratory Call</a>
+## <a href="https://koalendar.com/e/30-min-exploratory-call-with-michael" target="_blank" style="background-color: #eb3300; color: #fff;">Schedule a Free 30-Minute Exploratory Call</a>
 
 
 [![LinkedIn](https://img.shields.io/badge/mmallari-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mmallari)
