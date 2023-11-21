@@ -23,7 +23,7 @@ After an additional graduate Ivy League education (MS in Applied Analytics from 
 💬 **Ask me about**
 * Career opportunities with a CS education (with emphasis on AI)
 * K-12 educational milestones in CS
-* Admissions to Ivy League schools
+* Admissions to Ivy League STEM programs
 * Roadmap to get that $100k job straight out of college
 
 ## <a href="https://koalendar.com/e/30-min-exploratory-call-with-michael" target="_blank" style="background-color: #eb3300; color: #fff;">Schedule an Exploratory Call</a>
