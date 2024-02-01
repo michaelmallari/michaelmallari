@@ -2,7 +2,7 @@
 
 ## Jupyter Notebooks
 
-1. [Manipulating Time Series Data with xts and zoo in R](https://gist.github.com/michaelmallari/03c29a46f2b8a185a62fe69b04d508b8)
+1. [Manipulating Time Series Data in R](https://gist.github.com/michaelmallari/83544221247d8c721f2ffecd34486521)
 1. [Time Series Analysis in R](https://gist.github.com/michaelmallari/9e46ecc7070495162482403618ba1eda)
 1. [ARIMA Models in R](https://gist.github.com/michaelmallari/77c8392250b30552cbb5050ef90e245e)
 1. [Forecasting in R]()
@@ -15,10 +15,8 @@
 
 <img src="https://www.michaelmallari.com/img/headshot.jpg" width="160" height="160" align="right" style="margin: 0px 0px 160px 20px; border-radius: 50%;" />
 
-Michael is a hybrid thinker and doer—a byproduct of being a CliftonStrengths "Learner" over time. As a seasoned leader (20+ years) with hands-on "product trio" experiences (software engineering, product design, and product management), he helps organizations discover market needs, mobilize internal and external resources, and deliver delightful customer experiences that align with business goals—in this *AI-first* era.
-
-He has been entrusted with problem-solving for brands—ranging from Fortune 500 companies to early-stage startups to not-for-profit organizations.
+Michael is a data scientist and analytical product leader. With his blend of technical chops and business acumen, he helps organizations discover, define, and deliver next-gen solutions in this *AI-first* era—while sustaining the required change that follows.  The proof: he has been entrusted with problem-solving for brands—ranging from Fortune 500 companies to early-stage startups to not-for-profit organizations.
 
 Michael earned his MS in Applied Analytics from Columbia University, MBA from the University of Maryland, College Park, and BS in Computer Science from New York Institute of Technology.
 
-<a href="https://github.com/michaelmallari" target="_blank">GitHub</a> | <a href="https://www.kaggle.com/michaelmallari" target="_blank">Kaggle</a> | <a href="https://www.linkedin.com/in/mmallari" target="_blank">LinkedIn</a> | <a href="https://www.michaelmallari.com" target="_blank">MichaelMallari.com</a> | <a href="https://www.pinterest.com/michaelmallari/" target="_blank">Pinterest</a> | <a href="https://twitter.com/MichaelMallari" target="_blank">Twitter</a>
+<a href="https://huggingface.co/michaelmallari" target="_blank">Hugging Face</a> | <a href="https://www.kaggle.com/michaelmallari" target="_blank">Kaggle</a> | <a href="https://github.com/michaelmallari" target="_blank">GitHub</a> | <a href="https://public.tableau.com/app/profile/michaelmallari" target="_blank">Tableau</a> | <a href="https://www.pinterest.com/michaelmallari/" target="_blank">Pinterest</a> | <a href="https://public.tableau.com/app/profile/michaelmallari" target="_blank">Threads</a> | <a href="https://www.linkedin.com/in/mmallari" target="_blank">LinkedIn</a> | <a href="https://www.michaelmallari.com" target="_blank">michaelmallari.com</a>
