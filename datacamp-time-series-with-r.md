@@ -15,7 +15,9 @@
 
 <img src="https://www.michaelmallari.com/img/headshot.jpg" width="160" height="160" align="right" style="margin: 0px 0px 160px 20px; border-radius: 50%;" />
 
-Michael is a data scientist and analytical product leader. With his blend of technical chops and business acumen, he helps organizations discover, define, and deliver next-gen solutions in this *AI-first* era—while sustaining the required change that follows.  The proof: he has been entrusted with problem-solving and delivering key results for brands—ranging from Fortune 500 companies to startups to not-for-profit organizations—*for over 20 years*.
+Michael is a data scientist and analytical product leader. With his technical chops and business acumen, he helps organizations discover, define, and deliver next-gen solutions in this *AI-first* era—while sustaining the required change that follows.
+
+The proof: for over 20 years, he has been entrusted with problem-solving and delivering key results for brands—ranging from Fortune 500 companies to startups to not-for-profit organizations.
 
 Michael earned his MS in Applied Analytics from Columbia University, MBA from the University of Maryland, College Park, and BS in Computer Science from New York Institute of Technology.
 
