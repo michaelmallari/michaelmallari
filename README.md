@@ -16,9 +16,9 @@
 
 <img src="https://www.michaelmallari.com/img/headshot.jpg" width="120" height="120" align="right" />
 
-I’m an engineer-by-trade, data-driven, and product-oriented.  I use my CS and MBA background to deliver value to customers and the business through emerging technologies—from Web 1.0 (during the late '90s and early 2000s dot-com boom) to (recently) 5G mobility, and (now) AI.  
+I’m an engineer-by-trade, data-driven, and product-oriented.  I use my CS and MBA background to deliver value to customers and the business through emerging technologies.  
 
-I offer my combined 20+ years of software engineering, product design, product management, and data science experience to discover, define, and deliver large-scale, technically-complex, next-gen solutions for Fortune 500 companies, startups, and not-for-profit organizations.
+I've used my combined 20+ years of software engineering, product design, product management, and data science experience to discover, define, and deliver large-scale, technically-complex, next-gen solutions—from Web 1.0 (during the late '90s and early 2000s dot-com boom) to (recently) 5G mobility, and (now) AI—for Fortune 500 companies, startups, and not-for-profit organizations.
 
 I also offer the next-generation of talented students the tutoring and coaching to level-up for this AI-first era.  As an adjunct faculty member at Columbia University, I offer my students exposure to the same, rapidly-evolving tech stack that my Ivy League students are exposed to.
 
