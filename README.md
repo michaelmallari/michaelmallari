@@ -18,7 +18,7 @@
 
 I’m an engineer-by-trade, data-driven, and product-oriented.  I use my CS and MBA background to deliver value to customers and the business through emerging technologies.  
 
-I've used my software engineering, product design, product management, and data science experience to discover, define, and deliver large-scale, technically-complex, next-gen solutions—from Web 1.0 (during the late '90s and early 2000s dot-com boom) to (recently) 5G mobility, and (now) AI—and I've used 20+ years of successful outcomes with Fortune 500 companies, startups, and not-for-profit organizations to level-up again and again.
+I've used my software engineering, product design, product management, and data science experience to discover, define, and deliver large-scale, technically-complex, next-gen solutions—from Web 1.0 (during the late '90s and early 2000s dot-com boom) to (recently) 5G mobility, and (now) AI.  And I've used 20+ years of successful outcomes with Fortune 500 companies, startups, and not-for-profit organizations to make my impact and level-up again and again.
 
 I also offer the next-generation of talented students the tutoring and coaching to level-up for this AI-first era.  As an adjunct faculty member at Columbia University, I offer my students exposure to the same, rapidly-evolving tech stack that my Ivy League students are exposed to.
 
