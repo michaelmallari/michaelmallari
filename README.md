@@ -36,6 +36,8 @@ Ready to impress and stand-out from the crowd?  I'm here to help. 🤝
 [![LinkedIn](https://img.shields.io/badge/mmallari-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mmallari)
 <!--  [![Twitter](https://img.shields.io/badge/-@MichaelMallari-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/MichaelMallari)](https://twitter.com/MichaelMallari)  -->
 
+
+<!--
 ---
 
 📓 **Jupyter Notebook Resources**
@@ -57,3 +59,4 @@ DataCamp > Skills Track
 * [Supervised Machine Learning in R](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-supervised-machine-learning-in-r.md)
 * [Unsupervised Machine Learning in R](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-unsupervised-machine-learning-in-r.md)
 * [Natural Language Processing in Python](https://github.com/michaelmallari/michaelmallari/blob/main/datacamp-natural-language-processing-in-python.md)
+-->
