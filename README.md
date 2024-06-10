@@ -16,9 +16,13 @@
 
 <img src="https://www.michaelmallari.com/img/headshot.jpg" width="120" height="120" align="right" />
 
-I’m an engineer by trade.  With my undergraduate degree in computer science, I spent the first 12 years of my career as a developer.  New career opportunities and an MBA education (from the University of Maryland 🐢) took me from being a developer to being a product designer, to being a product manager.  I like to say that my career of 20+ years has evolved from "building the solutions right" (as an engineer), to "building the right solutions” for customers (as a product designer), to leading my team in creating delightful customer experiences that align with business goals (as a product manager).
+I’m an engineer-by-trade, data-driven, and product-oriented.  I use my CS and MBA background to deliver value to customers and the business through emerging technologies—from Web 1.0 (during the late '90s and early 2000s dot-com boom) to (recently) 5G mobility, and (now) AI.  
 
-Witnessing the needs of *today's* students after an additional graduate Ivy League education (MS in Applied Analytics from Columbia University 🦁) and also as an adjunct faculty member (again, at Columbia), I'm helping students and early career professionals (**you!**) to stand out from the crowd.  I'm here to help. 🤝 
+I offer my combined 20+ years of software engineering, product design, product management, and data science experience to discover, define, and deliver large-scale, technically-complex, next-gen solutions for Fortune 500 companies, startups, and not-for-profit organizations.
+
+I also offer the next-generation of talented students the tutoring and coaching to level-up for this AI-first era.  As an adjunct faculty member at Columbia University, I offer my students exposure to the same, rapidly-evolving tech stack that my Ivy League students are exposed to.
+
+Ready to impress and stand-out from the crowd?  I'm here to help. 🤝 
 
 💬 **Ask me about**
 * Career opportunities with a CS education (with emphasis on AI)
