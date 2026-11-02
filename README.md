@@ -19,9 +19,9 @@ Ready to impress and stand-out from the crowd?  I'm here to help. 🤝
 
 ## <a href="https://koalendar.com/e/30-min-exploratory-call-with-michael" target="_blank" style="background-color: #eb3300; color: #fff;">Schedule a Free 30-Minute Exploratory Call</a>
 -->
-
+<!--
 [![LinkedIn](https://img.shields.io/badge/mmallari-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mmallari)
-<!--  [![Twitter](https://img.shields.io/badge/-@MichaelMallari-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/MichaelMallari)](https://twitter.com/MichaelMallari)  -->
+  [![Twitter](https://img.shields.io/badge/-@MichaelMallari-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/MichaelMallari)](https://twitter.com/MichaelMallari)  -->
 
 
 <!--
