@@ -4,7 +4,7 @@
 
 I’m an engineer-by-trade, data-driven, and product-oriented.  I use my CS and MBA background to deliver value to customers and the business by productizing emerging technologies.  
 
-With my software engineering, product design, product management, and data science background, I discover, define, and deliver large-scale, technically-complex, next-gen solutions—from Web 1.0 (during the late '90s and early 2000s dot-com boom) to (recently) 5G mobility, and (now) AI.  The proof?  For 20+ years, I've delivered successful outputs and outcomes across Fortune 500 companies, startups, and not-for-profit organizations.
+With my software engineering, product design, product management, and data science background, I discover, define, and deliver large-scale, technically-complex, next-gen solutions—from Web 1.0 (during the late '90s and early 2000s dot-com boom) to (recently) 5G mobility, and (now) AI.  And this success spans across Fortune 500 companies, startups, and not-for-profit organizations.
 
 <!--
 I also offer the next-generation of motivated students the tutoring and coaching for leveling-up in this AI-first era.  As an adjunct faculty member at Columbia University, I offer my private tutoring/coaching students exposure to the same, rapidly-evolving tech stack that my Ivy League students are exposed to.  My students build real-world projects (the same ones built at Fortune 500 companies today) and prepare for job interviews.
